@@ -60,6 +60,7 @@ The application supports the following customer operations:
 ### PUT - Update Customer
 ![PUT](doc/PUT.png.png)
 
+sadins edit
 ### DELETE - Delete Customer
 ![DELETE](doc/DELETE.png.png)
 
